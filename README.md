@@ -1,6 +1,8 @@
 # flutter_with_bloc
 
-A new Flutter project.
+A Flutter Counter program that uses the BLoC Pattern.
+
+/home/kennedy/Pictures/Screenshot_2020-07-28_16-33-00.png
 
 ## Getting Started
 
